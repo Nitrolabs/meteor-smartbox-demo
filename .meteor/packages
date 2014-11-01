@@ -6,6 +6,6 @@
 meteor-platform
 autopublish
 insecure
-iron:router
 smartbox-theme
+iron:router
 
